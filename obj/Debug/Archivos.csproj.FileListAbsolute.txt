@@ -1,0 +1,72 @@
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.Nuevo_Atributo.resources
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.Main.resources
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.Properties.Resources.resources
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.csproj.GenerateResource.cache
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Mildred Sifuentes\Downloads\Archivos\Proyecto\Archivos\Archivos\obj\Debug\Archivos.pdb
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\bin\Debug\Archivos.exe
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\bin\Debug\Archivos.pdb
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.Nuevo_Atributo.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.Main.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.Properties.Resources.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.csproj.GenerateResource.Cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.exe
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos\obj\Debug\Archivos.pdb
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\bin\Debug\Archivos.exe.config
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\bin\Debug\Archivos.exe
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\bin\Debug\Archivos.pdb
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.Nuevo_Atributo.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.Main.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.Properties.Resources.resources
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.csproj.GenerateResource.Cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.exe
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.pdb
+C:\Users\a_k_n\Documents\Programas\Visual\Archivos Der\obj\Debug\Archivos.Datos.resources
+E:\Archivos Der\bin\Debug\Archivos.exe.config
+E:\Archivos Der\bin\Debug\Archivos.exe
+E:\Archivos Der\bin\Debug\Archivos.pdb
+E:\Archivos Der\obj\Debug\Archivos.Datos.resources
+E:\Archivos Der\obj\Debug\Archivos.Nuevo_Atributo.resources
+E:\Archivos Der\obj\Debug\Archivos.Main.resources
+E:\Archivos Der\obj\Debug\Archivos.Properties.Resources.resources
+E:\Archivos Der\obj\Debug\Archivos.csproj.GenerateResource.cache
+E:\Archivos Der\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Archivos Der\obj\Debug\Archivos.exe
+E:\Archivos Der\obj\Debug\Archivos.pdb
+E:\Archivos Der\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\Archivos Der\bin\Debug\Archivos.exe.config
+F:\Archivos Der\bin\Debug\Archivos.exe
+F:\Archivos Der\bin\Debug\Archivos.pdb
+F:\Archivos Der\obj\Debug\Archivos.csprojAssemblyReference.cache
+F:\Archivos Der\obj\Debug\Archivos.Datos.resources
+F:\Archivos Der\obj\Debug\Archivos.Nuevo_Atributo.resources
+F:\Archivos Der\obj\Debug\Archivos.Main.resources
+F:\Archivos Der\obj\Debug\Archivos.Properties.Resources.resources
+F:\Archivos Der\obj\Debug\Archivos.csproj.GenerateResource.cache
+F:\Archivos Der\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+F:\Archivos Der\obj\Debug\Archivos.exe
+F:\Archivos Der\obj\Debug\Archivos.pdb
+E:\Archivos Der\obj\Debug\Archivos.Ventana_Indice.resources
+E:\Segunda mitad noviembre\Archivos Der\bin\Debug\Archivos.exe.config
+E:\Segunda mitad noviembre\Archivos Der\bin\Debug\Archivos.exe
+E:\Segunda mitad noviembre\Archivos Der\bin\Debug\Archivos.pdb
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.Datos.resources
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.Nuevo_Atributo.resources
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.Main.resources
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.Properties.Resources.resources
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.Ventana_Indice.resources
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.csproj.GenerateResource.Cache
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.exe
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.pdb
+E:\Segunda mitad noviembre\Archivos Der\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
